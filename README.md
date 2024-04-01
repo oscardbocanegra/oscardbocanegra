@@ -5,7 +5,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, Python, Java, JavaScript, Django, FastAPI, SQL**
+- 🔭 I’m currently working on **AWS, Python, Java, JavaScript, Django, FastAPI, SQL, Docker, git, GitHub**
 
 - 🌱 I’m currently learning **about IA models and improving skills on Backend and Frontend**
 
@@ -13,8 +13,9 @@
 
 - 📝 I regularly write articles on [Linkedin](https://www.linkedin.com/in/oscardavidbocanegracapera/)
 
-- 💬 Ask me about **Backend, SQL, Django, IA**
+- 💬 Ask me about **Backend, SQL, Django, IA, Docker, Git, GitHub**
 
 - 📫 Feel free to reach me out **davidbocanegrac@gmail.com**
 
 <!--Intro end-->
+
